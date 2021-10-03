@@ -1,12 +1,18 @@
-Share:
 
 武器
+share:
 Djinn Slayer 迪金杀手 2槽 = 
 The Reaper's Toll 死神的丧钟 14% 213ED = #26
 DoomBringer 末日毁灭者
+A:
+Wizardspike 巫师之刺 = 
+Spineripper 裂脊者 = 
+阿里巴巴 = #21
+无形阿里巴巴 = #24
+Bonehew 破骨 = 
+Stormrider 暴风骑士
+Rusthandle 腐蚀的把手
 
-Dracul’s Grasp 卓古拉之握 9% = #24
-Duriel’s Shell 督壳 = 
 
 德鲁伊
 Cerebus’ Bite 地狱之吻 = 
@@ -17,7 +23,7 @@ Manald Heal 马娜德的治疗 6%
 Nagelring 拿各的戒指 15%
 Nagelring 拿各的戒指 16%
 Dwarf star 矮人之星
-双吸戒指  %4/%6，20血，电19，火7 = 
+双吸戒指  %4/%6，20血，电19，火7 = #28
 
 
 项链
@@ -37,6 +43,8 @@ F:
 Skin of the Vipermagi 海蛇皮 R21 = #21 
 Skin of the Vipermagi 海蛇皮 R24 = #21
 Guardian Angel 守护天使 = #21
+share:
+Duriel’s Shell 督壳 = 
 Darkglow 扩散黑暗
 Twitchthroe 抽动的挣扎
 IceBlink 冰雪眨眼 
@@ -49,10 +57,9 @@ Gtiswold’s Heart 格瑞斯华尔德之心
 F:
 法师武器
 眼球 = #26
-Tal Rasha's Lidless Eye 塔拉夏的女士之眼
+Tal Rasha's Lidless Eye 塔拉夏杖
 Ondal’s Wisdom 奥恩德的智慧
 Naj’s puzzler 娜吉的解密棒
-次元碎片 
 
 
 
@@ -67,9 +74,11 @@ Blackoak shield 黑橡树盾
 Tiamat’s Rebuke 魔龙的非难
 
 
-B:
 
 手套
+share:
+Dracul’s Grasp 卓古拉之握 9% = #24
+B:
 Soul Drainer 吸魂者 %4/%7 = #21
 Bloodfist 雪拳 = #21
 Hellmouth 地狱之嘴 = #20
@@ -84,9 +93,9 @@ Treads of Cthon 凯松的征服 = ??
 
 刺客爪子
 
-Bartuc’s cut-Throat 巴特克的猛击 ED 170 = 
-Bartuc’s cut-Throat 巴特克的猛击 ED 182 =
-Bartuc’s cut-Throat 巴特克的猛击 ED 190 =
+Bartuc’s cut-Throat 巴特克的猛击 ED170 = 
+Bartuc’s cut-Throat 巴特克的猛击 ED182 =
+Bartuc’s cut-Throat 巴特克的猛击 ED190 =
 AA:
 Shadow killer 影杀者 = 
 
@@ -95,7 +104,6 @@ Shadow killer 影杀者 =
 
 G: 
 腰带
-
 Thundergod’s Vigor 雷神之力 ED195 = #21
 Verdungo's Hearty Cord 物免腰带 13% = #21
 Snowclash 雪之冲突 = #20
@@ -113,22 +121,7 @@ Lidless wall  警戒之墙 = #20
 
 
 
-武器
-A:
-Wizardspike 巫师之刺 = 
-Wizardspike 巫师之刺 = 
-Wizardspike 巫师之刺 = 
-Spineripper 裂脊者 = 
-阿里巴巴 = #21
-无形阿里巴巴 = #24
-Bonehew 破骨 = 
-Stormrider 暴风骑士
-Rusthandle 腐蚀的把手
-
-
-
 AA:
-
 Aldur’s Rhythm
 
 亚马逊
