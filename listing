@@ -1,21 +1,60 @@
 
 武器
-share:
-Djinn Slayer 迪金杀手 2槽 = 
-The Reaper's Toll 死神的丧钟 14% 213ED = #26
-DoomBringer 末日毁灭者
-A:
-Wizardspike 巫师之刺 = 
-Spineripper 裂脊者 = 
 阿里巴巴 = #21
 无形阿里巴巴 = #24
-Bonehew 破骨 = 
+The Reaper's Toll 死神的丧钟 14% ED213 = #26
+Tomb Reaver 掠墓者 ED246 R47 MF62 = #24
+DoomBringer 末日毁灭者
+Bloodmoon 血月
+Stormspike 暴风尖刺
+Djinn Slayer 迪金杀手 1槽
+Bonehew 破骨
 Stormrider 暴风骑士
 Rusthandle 腐蚀的把手
+Wizardspike 巫师之刺
+Spineripper 裂脊者
+Frostwind 霜风
 
+
+法师
+眼球 = #26
+Eschuta's Temper 艾斯屈塔的脾气
+Tal Rasha's Lidless Eye 塔拉夏杖
+Ondal’s Wisdom 奥恩德的智慧
+Naj’s puzzler 娜吉的解密棒
+
+
+死灵
+Arm of king leoric 李奥 = #26
+Homunculus  魔胎 = #24
+Lidless wall  警戒之墙 = #20
+
+
+亚马逊
+Thunderstroke 雷击
+Hellrack 地狱拷问
+
+
+刺客
+Bartuc’s cut-Throat 巴特克的猛击 ED170
+Bartuc’s cut-Throat 巴特克的猛击 ED182
+Bartuc’s cut-Throat 巴特克的猛击 ED190
+Jade Talon 碧玉爪 ED216 R46
+Shadow killer 影杀者
+
+
+头盔 
+Vampire Gaze 吸血鬼的凝视 %7/%8 20% 10
+Crown of Thieves 盗贼皇冠 %9-%11
+
+野蛮人
+Wolfhowl 狼嚎 +3
+Immortal King's Will 不朽之王的意志 MF32
+Immortal King's Will 不朽之王的意志 MF40
 
 德鲁伊
-Cerebus’ Bite 地狱之吻 = 
+Cerebus’ Bite 地狱之吻
+
 
 戒指
 Manald Heal 马娜德的治疗 5%
@@ -30,21 +69,15 @@ Dwarf star 矮人之星
 The mahim-oak curio 玛哈姆橡木古董
 Saracen’s Chance 萨拉森的机会
 Seraph’s Hymh 炙天使之韵
-+3 毒+古 项链 = 
++3 毒+古 项链
 
 
-基德的运气 25%mf
-Jade Talon 碧玉爪 = 
-
-
-
-F:
 衣服
 Skin of the Vipermagi 海蛇皮 R21 = #21 
 Skin of the Vipermagi 海蛇皮 R24 = #21
 Guardian Angel 守护天使 = #21
-share:
-Duriel’s Shell 督壳 = 
+Duriel’s Shell 督壳 = #21
+Que-Hegan's Wisdom 魁黑刚的智慧 (法师铠甲）
 Darkglow 扩散黑暗
 Twitchthroe 抽动的挣扎
 IceBlink 冰雪眨眼 
@@ -52,57 +85,40 @@ Rattlecage 作声之笼
 Silks of the victor 胜利者之丝绸
 Toothrow 排齿
 Gtiswold’s Heart 格瑞斯华尔德之心
+Corpsemourn 尸体的哀伤
+Haemosu's Adamant 黑摩苏的坚决
 
 
-F:
-法师武器
-眼球 = #26
-Tal Rasha's Lidless Eye 塔拉夏杖
-Ondal’s Wisdom 奥恩德的智慧
-Naj’s puzzler 娜吉的解密棒
-
-
-
-
-C:
 盾牌
 Stormshield 风暴盾 = #22
 Stormshield 风暴盾 = #22
-Herald of Zakarum 撒卡兰姆使者 = #24
-Herald of Zakarum 撒卡兰姆使者 = #24
 Blackoak shield 黑橡树盾 
 Tiamat’s Rebuke 魔龙的非难
 
+圣骑士盾
+Herald of Zakarum 撒卡兰姆使者 = #24
+Herald of Zakarum 撒卡兰姆使者 = #24
+Alma Negra 阿尔玛.尼格拉
 
 
 手套
-share:
 Dracul’s Grasp 卓古拉之握 9% = #24
-B:
 Soul Drainer 吸魂者 %4/%7 = #21
 Bloodfist 雪拳 = #21
 Hellmouth 地狱之嘴 = #20
 Ghoulhide 食尸鬼外皮 = #20
 Venom Grip 剧毒之抓 = #20
 
+
 鞋子
-
-Sandstorm Trek 沙暴之旅 = ??
-Treads of Cthon 凯松的征服 = ??
-
-
-刺客爪子
-
-Bartuc’s cut-Throat 巴特克的猛击 ED170 = 
-Bartuc’s cut-Throat 巴特克的猛击 ED182 =
-Bartuc’s cut-Throat 巴特克的猛击 ED190 =
-AA:
-Shadow killer 影杀者 = 
+Sandstorm Trek 沙暴之旅
+Infernostride 地狱阔步
+Treads of Cthon 凯松的征服
 
 
 
 
-G: 
+
 腰带
 Thundergod’s Vigor 雷神之力 ED195 = #21
 Verdungo's Hearty Cord 物免腰带 13% = #21
@@ -113,18 +129,8 @@ Bladebuckle  锋利扣带
 Gloom’s Trap 阴影陷阱
 
 
-死灵专属
-
-Arm of king leoric 李奥 = #26
-Homunculus  魔胎 = #24
-Lidless wall  警戒之墙 = #20
+基德的运气 25%mf
 
 
 
-AA:
-Aldur’s Rhythm
 
-亚马逊
-E:
-Thunderstroke 雷击
-Hellrack 地狱拷问
