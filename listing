@@ -6,8 +6,7 @@
 武器
 阿里巴巴 ED103 = #21
 无形阿里巴巴 ED88 = #24
-The Reaper's Toll 死神的丧钟 14% ED213 = #26
-The Reaper's Toll 死神的丧钟 13% ED208 = #24
+The Reaper's Toll 死神的丧钟 14% ED213 = #24
 Tomb Reaver 掠墓者 ED246 R47 MF62 = #24
 DoomBringer 末日毁灭者
 Bloodmoon 血月
@@ -22,7 +21,6 @@ Frostwind 霜风
 
 
 法师
-眼球 = #26
 Eschuta's Temper 艾斯屈塔的脾气
 Tal Rasha's Lidless Eye 塔拉夏杖 2冰2电1火
 Ondal’s Wisdom 奥恩德的智慧
@@ -55,7 +53,6 @@ Blackoak shield 黑橡树盾
 Tiamat’s Rebuke 魔龙的非难
 
 圣骑士盾
-Herald of Zakarum 撒卡兰姆使者 ED161 = #24
 Herald of Zakarum 撒卡兰姆使者 ED166 = #24
 Alma Negra 阿尔玛.尼格拉
 
@@ -102,8 +99,7 @@ Treads of Cthon 凯松的征服
 
 腰带
 Thundergod’s Vigor 雷神之力 ED195 = #21
-Verdungo's Hearty Cord 物免腰带 32/13DR = #21
-Goldwrap 金色包袱 
+Goldwrap 金色包袱 = #22
 Snowclash 雪之冲突 = #20
 maelstrom 旋涡之力 
 Lenymo 雷尼摩
@@ -124,8 +120,6 @@ Dwarf star 矮人之星
 The mahim-oak curio 玛哈姆橡木古董
 Saracen’s Chance 萨拉森的机会
 Seraph’s Hymh 炙天使之韵
-Highlord's Wrath 大君之怒
-+3 毒+古 项链
 
 
 护符
