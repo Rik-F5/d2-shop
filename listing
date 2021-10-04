@@ -6,6 +6,7 @@
 武器
 阿里巴巴 ED103 = #21
 无形阿里巴巴 ED88 = #24
+海鸥 = #21
 The Reaper's Toll 死神的丧钟 14% ED213 = #24
 Tomb Reaver 掠墓者 ED246 R47 MF62 = #24
 DoomBringer 末日毁灭者
@@ -28,8 +29,10 @@ Naj’s puzzler 娜吉的解密棒
 
 
 死灵
-Homunculus  侏儒 = #23
+Homunculus  侏儒(魔胎) = #23
 Lidless wall  警戒之墙 = #20
+Trang-Oul's Scales 塔格奥之鳞
+Trang-Oul's Claws 塔格奥之爪
 
 
 亚马逊
@@ -38,11 +41,12 @@ Hellrack 地狱拷问
 
 
 刺客
-Bartuc’s cut-Throat 巴特克的猛击 ED170
+Bartuc’s cut-Throat 巴特克的猛击 ED170 
 Bartuc’s cut-Throat 巴特克的猛击 ED182
 Bartuc’s cut-Throat 巴特克的猛击 ED190
 Jade Talon 碧玉爪 ED216 R46
 Shadow killer 影杀者
+Natalya's Totem 娜塔亚的图腾 R15
 
 
 盾牌
@@ -55,10 +59,13 @@ Tiamat’s Rebuke 魔龙的非难
 Alma Negra 阿尔玛.尼格拉
 
 头盔 
-Crown of Thieves 盗贼皇冠 %9-%11
+Vampire Gaze 吸血鬼的凝视 %8/%7 = #21
+Crown of Thieves 盗贼皇冠 %9-%11 = #19
+Blackthorn's Face 黑角面具 = #18
 
 野蛮人
-Wolfhowl 狼嚎 +3
+Wolfhowl 狼嚎 +3 = #20
+Arreat's Face 亚瑞特的面容 165ED 3% = #19
 Immortal King's Will 不朽之王的意志 MF32
 Immortal King's Will 不朽之王的意志 MF40
 
@@ -76,31 +83,36 @@ IceBlink 冰雪眨眼
 Rattlecage 作声之笼 
 Silks of the victor 胜利者之丝绸
 Toothrow 排齿
+Black Hades 黑色黑帝斯
 Corpsemourn 尸体的哀伤
 Haemosu's Adamant 黑摩苏的坚决
+Gtiswold’s Heart 格瑞斯华尔德之心
+Atma's Wail 亚特玛的哭喊
 
 
 手套
-Dracul’s Grasp 卓古拉之握 9% = #24
+Dracul’s Grasp 卓古拉之握 9% = #22
 Soul Drainer 吸魂者 %4/%7 = #21
-Bloodfist 雪拳 = #21
-Hellmouth 地狱之嘴 = #20
-Ghoulhide 食尸鬼外皮 = #20
-Venom Grip 剧毒之抓 = #20
+Bloodfist 血拳 = #20
+Magefist 法师之拳 = #20
+Hellmouth 地狱之嘴
+Ghoulhide 食尸鬼外皮
+Venom Grip 剧毒之抓
+Frostburn 霜燃
 
 
 鞋子
+Waterwalk 水上飘 180ED 58 life = #20
 Sandstorm Trek 沙暴之旅
 Infernostride 地狱阔步
-Treads of Cthon 凯松的征服
 
 
 腰带
-Thundergod’s Vigor 雷神之力 ED195 = #21
+Arachnid Mesh 蜘蛛之网 = #22
 Goldwrap 金色包袱 = #22
+Razortail 剃刀之尾 139ED 
 Snowclash 雪之冲突 = #20
 maelstrom 旋涡之力 
-Lenymo 雷尼摩
 Bladebuckle  锋利扣带
 Gloom’s Trap 阴影陷阱
 
@@ -111,10 +123,13 @@ Manald Heal 马娜德的治疗 6%
 Nagelring 拿各的戒指 15%
 Nagelring 拿各的戒指 16%
 Dwarf star 矮人之星
-双吸戒指  %4/%6，20血，电19，火7 = #28
+Nature's Peace 大自然的和平
+Carrion Wind 腐肉之风
+双吸戒指  %4/%6，20血，电19，火7 = #24
 
 
 项链
+The Cat's Eye 猫眼
 The mahim-oak curio 玛哈姆橡木古董
 Saracen’s Chance 萨拉森的机会
 Seraph’s Hymh 炙天使之韵
